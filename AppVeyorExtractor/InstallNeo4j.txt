@@ -1,0 +1,4 @@
+md nuget
+pushd nuget
+nuget install Neo4j.Driver -version 1.0.2
+popd
